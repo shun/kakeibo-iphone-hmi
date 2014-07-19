@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Tenkey.qml</file>
+        <file>Shortcut.qml</file>
+        <file>History.qml</file>
+        <file>Categories.qml</file>
+        <file>Calendar.qml</file>
+        <file>SubPanel.qml</file>
+        <file>LogonView.qml</file>
+        <file>RegisterView.qml</file>
+        <file>BaseView.qml</file>
+    </qresource>
+</RCC>
